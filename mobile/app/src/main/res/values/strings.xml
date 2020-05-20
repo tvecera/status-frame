@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dad\'s status</string>
+    <string name="dnd">Do not disturb</string>
+    <string name="work">Work</string>
+    <string name="transport">Transport</string>
+    <string name="status">Status:</string>
+    <string name="last_frame_check">Last frame check:</string>
+    <string name="not_available">NA</string>
+</resources>
